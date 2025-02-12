@@ -137,9 +137,9 @@ foothr = false # show or hide horizontal rule above footer
 ###############################################################################
 
 title_separator = "|"  # Separator between title and title_addition, set as |, -, _, etc
-title_addition = "Discover Jardin Essentiel, your go-to blog for essential oils" # a default value for title addition (for SEO aim for 50-70 characters including the title and separator 'Abridge | title_addition')
+title_addition = "Essential Oils, Aromatherapy & Natural Wellness" # a default value for title addition (for SEO aim for 50-70 characters including the title and separator 'Abridge | title_addition')
 author = "Jardin Essentiel" # Put Your Name here
-keywords = "essential oils, wellness, spa, natural cosmetics, natural cleaning" # used for the primary site index
+keywords = "Essential oils benefits, Natural remedies, Aromatherapy tips, DIY essential oil recipes, Holistic wellness, Organic skincare, Natural health solutions, Essential oil diffuser blends, Home remedies, Plant-based healing" # used for the primary site index
 banner = "banner.png" # Used as default image for OpenGraph/Twitter if page specific image is undefined.
 #twitter_meta = "your-user-name" # for SEO: twitter:site and twitter:creator
 #google = "Your Google Site verification code."
