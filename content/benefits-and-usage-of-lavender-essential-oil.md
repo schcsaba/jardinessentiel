@@ -37,7 +37,7 @@ The cultivation of lavender expanded significantly with the rise of essential oi
 
 Lavender essential oil is primarily extracted using steam distillation. This method preserves the oil's purity and therapeutic properties. During the process, steam passes through the lavender flowers, capturing the volatile oils. The steam-oil mixture is then condensed into a liquid, separating the oil from water.
 
-Historically, lavender oil was used for its antiseptic and healing properties. Greek and Roman soldiers reportedly utilised it for treating wounds, showcasing its long-standing medicinal use. With a rising interest in natural health remedies, [lavender essential oils](https://doterra.me/jSVZL-) have become even more popular, continuing a tradition that dates back centuries.
+Historically, lavender oil was used for its antiseptic and healing properties. Greek and Roman soldiers reportedly utilised it for treating wounds, showcasing its long-standing medicinal use. With a rising interest in natural health remedies, lavender essential oils have become even more popular, continuing a tradition that dates back centuries.
 
 ## Properties of Lavender Essential Oil
 
@@ -152,6 +152,8 @@ In addition to its culinary uses, lavender is infused into a variety of products
 Lavender-infused syrups are another popular product used in cocktails, lemonades, and other beverages for a unique twist. They provide an aromatic, sweet element ideal for refreshing summer drinks.
 
 Lavender also serves in infusing oils used for cooking or salad dressings, imparting a delicate flavour to enhance rather than overpower dishes. These products demonstrate lavender's versatility beyond direct culinary application, broadening its use in both food and drink experiences.
+
+You can [get high quality lavender products here](https://doterra.me/jSVZL-).
 
 ## Using Lavender Essential Oil Safely
 
