@@ -9,7 +9,7 @@ tags = ["levendula illóolaj", "levendula hatásai", "levendulaolaj használata"
 
 A levendula illóolaj évszázadok óta ismert és elismert gyógyhatású szer, melyet számos kultúrában alkalmaznak. **A levendula illóolaj egyik legkiemelkedőbb tulajdonsága, hogy nyugtató és stresszoldó hatása van, amely segíti a relaxációt és az alvás minőségének javítását.** Ez a kis cseppnyi csodaanyag a modern orvostudományban is helyet kapott, köszönhetően széleskörű terápiás előnyeinek.
 
-![Egy virágzó levendulamező, ahol egy enyhe szellő hozza a levendula illóolajának megnyugtató illatát.](https://koala.sh/api/image/v2-q232z-orspp.jpg?width=1216\&height=832\&dream)
+![Egy virágzó levendulamező, ahol egy enyhe szellő hozza a levendula illóolajának megnyugtató illatát.](v2-q232z-orspp.webp)
 
 Amellett, hogy a levendula illóolaj elismert nyugtató hatású, immunerősítőként és antiszeptikumként is használják. Számos fájdalmat csillapítható és segíthet a gyulladások kezelésében, természetes alternatívát kínálva a hagyományos gyógyszerek helyett. Otthon is biztonsággal alkalmazható mindennapi problémákra, mint a fejfájás vagy kisebb bőrirritációk.
 
@@ -23,7 +23,7 @@ Nem szabad elfelejteni, hogy a levendula illóolaj használata megfelelő ismere
 
 ## A levendula növény bemutatása
 
-![Egy vibráló levendula növény, amelyet kis üvegpalackok vesznek körül levendula illóolajjal, békés és megnyugtató légkörben.](https://koala.sh/api/image/v2-q233a-zdhyc.jpg?width=1216\&height=832\&dream)
+![Egy vibráló levendula növény, amelyet kis üvegpalackok vesznek körül levendula illóolajjal, békés és megnyugtató légkörben.](v2-q233a-zdhyc.webp)
 
 A valódi levendula, tudományos nevén *Lavandula angustifolia*, egyike a világ legismertebb gyógynövényeinek. A levendula bokorszerű, illatos növény, amelyet évszázadok óta használnak gyógyászati és esztétikai célokra.
 
@@ -41,7 +41,7 @@ A középkorban a kolostorkertek gyakori növénye volt, ahol gyógyászati cél
 
 ## Levendula illóolaj előállítása és jellemzői
 
-![Egy virágzó levendulamezőt aratnak és illatos illóolajjá desztillálnak.](https://koala.sh/api/image/v2-q233o-xs2dj.jpg?width=1216\&height=832\&dream)
+![Egy virágzó levendulamezőt aratnak és illatos illóolajjá desztillálnak.](v2-q233o-xs2dj.webp)
 
 A levendula illóolaj előállítása magában foglalja a virágokból történő kinyerést, amely komplex folyamatokkal történik. Jellemzői közé tartozik a sajátos illat, valamint az egyedülálló kémiai összetétel, amely számos pozitív hatással bír.
 

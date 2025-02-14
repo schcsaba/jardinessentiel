@@ -9,7 +9,7 @@ tags = ["Lavender essential oil", "Benefits of lavender oil", "Lavender oil for 
 
 Lavender essential oil has long been cherished for its soothing properties and versatility, making it a staple in many homes. From its sweet-smelling aroma to its numerous therapeutic applications, lavender oil is celebrated for its ability to calm both the mind and body. **Its ability to relieve anxiety and improve sleep quality makes lavender essential oil a popular choice in aromatherapy.**
 
-![A serene lavender field with blooming flowers and a bottle of lavender essential oil being diffused into the air](https://koala.sh/api/image/v2-q22dd-g55q7.jpg?width=1216\&height=832\&dream)
+![A serene lavender field with blooming flowers and a bottle of lavender essential oil being diffused into the air](v2-q22dd-g55q7.webp)
 
 Beyond its relaxing fragrance, lavender oil boasts impressive benefits for skin and hair. It can help address skin irritations, reduce blemishes, and promote hair health, adding to its multifaceted appeal. Many people incorporate lavender essential oil into their beauty and wellness routines to enhance skin texture and boost hair vitality through natural means.
 
@@ -23,7 +23,7 @@ In addition to personal care, lavender essential oil is widely used in household
 
 ## Historical Background of Lavender
 
-![A field of blooming lavender with a distillation setup in a historical setting](https://koala.sh/api/image/v2-q22dy-lnt5i.jpg?width=1216\&height=832\&dream)
+![A field of blooming lavender with a distillation setup in a historical setting](v2-q22dy-lnt5i.webp)
 
 Lavender, famous for its pleasing fragrance and versatility, has a rich history that stretches across various cultures. From its origins in the Mediterranean region to its widespread cultivation today, lavender, particularly *Lavandula angustifolia*, has been valued for both medicinal and aromatic uses.
 
@@ -41,7 +41,7 @@ Historically, lavender oil was used for its antiseptic and healing properties. G
 
 ## Properties of Lavender Essential Oil
 
-![A bottle of lavender essential oil surrounded by blooming lavender plants in a peaceful garden](https://koala.sh/api/image/v2-q22eb-tcke8.jpg?width=1216\&height=832\&dream)
+![A bottle of lavender essential oil surrounded by blooming lavender plants in a peaceful garden](v2-q22eb-tcke8.webp)
 
 Lavender essential oil is celebrated for its diverse properties, which include a rich chemical composition, antioxidant and anti-inflammatory effects, and antimicrobial capabilities. These attributes contribute to its extensive use in aromatherapy, cosmetics, and traditional medicine.
 

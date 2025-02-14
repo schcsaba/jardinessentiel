@@ -9,7 +9,7 @@ tags = ["HuileEssentielle", "Lavande", "Aromathérapie", "BienÊtre", "Relaxatio
 
 Connu pour son arôme apaisant, l'essence de lavande a traversé les âges, se taillant une place mythique dans la médecine naturelle. Utilisée depuis des siècles dans différentes cultures, cette huile essentielle est acclamée pour ses propriétés relaxantes qui œuvrent à calmer le système nerveux et favoriser un sommeil réparateur. **L'huile essentielle de lavande est reconnue pour ses bienfaits sur la santé, notamment grâce à ses propriétés antiseptiques et anti-inflammatoires.**
 
-![Un champ serein de plantes de lavande en fleurs, avec le soleil se couchant à l'arrière-plan et le parfum de lavande remplissant l'air.](https://koala.sh/api/image/v2-q1zmu-c8trr.jpg?width=1216\&height=832\&dream)
+![Un champ serein de plantes de lavande en fleurs, avec le soleil se couchant à l'arrière-plan et le parfum de lavande remplissant l'air.](v2-q1zmu-c8trr.webp)
 
 En aromathérapie, ces petites gouttes odorantes sont de véritables alliées pour soulager le stress et l'anxiété sans les effets secondaires des médicaments. Elles possèdent aussi des atouts cosmétiques et dermatologiques, rendant la peau plus saine et équilibrée. Intégrer l'huile essentielle de lavande dans son quotidien peut se faire de diverses manières, des diffuseurs aux baumes apaisants.
 
@@ -23,7 +23,7 @@ De plus, il est crucial de choisir et de conserver l'huile essentielle de lavand
 
 ## Historique et origine de la lavande
 
-![Un champ de lavande en fleurs avec des abeilles bourdonnant autour, et un appareil de distillation extrayant de l'huile essentielle](https://koala.sh/api/image/v2-q1zn6-ae1k6.jpg?width=1216\&height=832\&dream)
+![Un champ de lavande en fleurs avec des abeilles bourdonnant autour, et un appareil de distillation extrayant de l'huile essentielle](v2-q1zn6-ae1k6.webp)
 
 La lavande a une riche histoire qui remonte à l'Antiquité. Utilisée pour ses propriétés parfumantes et médicinales, elle a évolué vers différentes déclinaisons au fil des siècles.
 
@@ -35,7 +35,7 @@ Parmi les variantes, le **lavandin** est un hybride de lavande vraie et de **lav
 
 ## Les propriétés principales de l'huile essentielle de lavande
 
-![Un champ de lavande en fleurs, avec le soleil projetant une lueur chaude sur les fleurs violettes. Des abeilles bourdonnent autour, collectant le nectar des fleurs parfumées.](https://koala.sh/api/image/v2-q1znt-n2qws.jpg?width=1216\&height=832\&dream)
+![Un champ de lavande en fleurs, avec le soleil projetant une lueur chaude sur les fleurs violettes. Des abeilles bourdonnent autour, collectant le nectar des fleurs parfumées.](v2-q1znt-n2qws.webp)
 
 L'huile essentielle de lavande possède de nombreuses propriétés bénéfiques, notamment pour le système nerveux et la peau, tout en favorisant un sommeil réparateur. Ses vertus apaisantes et ses capacités thérapeutiques en font un allié précieux dans divers domaines de la santé.
 
