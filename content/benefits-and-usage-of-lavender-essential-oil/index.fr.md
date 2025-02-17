@@ -1,6 +1,6 @@
 +++
 title = "Les bienfaits et l'utilisation de l'huile essentielle de lavande: Guide pratique et avantages clés"
-description = "Découvrez les bienfaits et les multiples usages de l’huile essentielle de lavande dans ce guide complet. Connue pour ses propriétés apaisantes, antiseptiques et anti-inflammatoires, la lavande est un allié incontournable pour la relaxation, le soin de la peau et l’amélioration du sommeil. Apprenez comment choisir, conserver et utiliser cette huile précieuse pour maximiser ses effets thérapeutiques."
+description = "Découvrez les bienfaits de l'huile essentielle de lavande ! Conseils pour la relaxation, les soins de la peau et le bien-être au quotidien."
 date = 2025-02-12
 draft = false
 [taxonomies]

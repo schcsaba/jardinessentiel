@@ -1,6 +1,6 @@
 +++
 title = "A levendula illóolaj kedvező hatásai és használata: Fedezze fel előnyeit és alkalmazási módjait"
-description = "A levendula illóolaj nyugtató, stresszoldó és gyulladáscsökkentő hatásairól ismert. Fedezze fel, hogyan használható az aromaterápiában, bőrápolásban és egészségmegőrzésben! Cikkünk bemutatja a levendulaolaj előnyeit, előállítását és helyes alkalmazását."
+description = "Fedezd fel a levendula illóolaj jótékony hatásait! Tippek relaxációhoz, bőrápoláshoz és mindennapi wellnesshez."
 date = 2025-02-12
 draft = false
 [taxonomies]
